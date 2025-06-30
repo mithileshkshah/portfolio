@@ -10,7 +10,7 @@ function AboutCard() {
                         Hi Everyone, I am <span className="purple">Mithilesh Shah </span>
                         from <span className="purple"> Singrauli, India.</span>
                         <br />
-                        I am currently employed as a software developer at Ira Technologies India Pvt. Ltd.
+                        I am currently employed as a frontend developer at Ira Technologies India Pvt. Ltd.
                         <br />
                         I have completed B.Tech at Roorkee Institute of Technology, Roorkee.
                         <br />

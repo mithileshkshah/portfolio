@@ -23,13 +23,13 @@ function Home2() {
                             <br />
                             <br />I am fluent in classics like
                             <i>
-                                <b className="purple"> Javascript and Java</b>
+                                <b className="purple"> JavaScript and TypeScript</b>
                             </i>
                             <br />
                             <br />
-                            My field of Interest's are building new &nbsp;
+                            My field of Interest's are building new {" "}
                             <i>
-                                <b className="purple">Web Technologies and Products </b> and
+                                <b className="purple">Web Technologies and Products {" "}</b> and
                                 also in areas related to{" "}
                                 <b className="purple">
                                     Deployment.
@@ -47,11 +47,7 @@ function Home2() {
                             </i>
                             &nbsp; like &nbsp;
                             <i>
-                                <b className="purple">Angular, React and Node JS</b>
-                            </i>
-                            &nbsp; And &nbsp;
-                            <i>
-                                <b className="purple">Spring Boot</b>
+                                <b className="purple">Angular, React and Node JS.</b>
                             </i>
                         </p>
                     </Col>
@@ -70,7 +66,7 @@ function Home2() {
                         <ul className="home-about-social-links">
                             <li className="social-icons">
                                 <a
-                                    href="https://github.com/Mithilesh85"
+                                    href="https://github.com/Mithileshkshah"
                                     target="_blank"
                                     rel="noreferrer"
                                     className="icon-colour  home-social-icons"
